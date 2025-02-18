@@ -66,7 +66,7 @@ export class MainComponent implements AfterViewInit {
 
   ngAfterViewInit(): void {
 
-    this.popupComponent.open();
+    //this.popupComponent.open();
       // const modalRef = this.modalService.open(PopupComponent);
       // modalRef.componentInstance.data = 'World'
 
