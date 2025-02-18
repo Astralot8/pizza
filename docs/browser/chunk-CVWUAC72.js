@@ -1,0 +1,1 @@
+import{ha as o}from"./chunk-WTHNNU3O.js";var c={production:!1,apiURL:"https://testologia.ru"};var r=class t{product="";constructor(){}static \u0275fac=function(e){return new(e||t)};static \u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})};export{r as a,c as b};
